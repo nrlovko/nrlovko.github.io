@@ -4,15 +4,14 @@
     "label": "Graduate Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
     "email": "nrlovko[@]gmail.com",
-    "phone": "808-333-4444",
     "website": "https://nrlovko.github.io",
     "summary": "I recently received my M.S. in Biology from Bradley University.",
     "location": {
       "address": "",
       "postalCode": "12345",
-      "city": "Somewhere",
+      "city": "Indianapolis",
       "countryCode": "USA",
-      "region": "State"
+      "region": "Indiana"
     },
     "profiles": [
       {
@@ -37,7 +36,17 @@
       "name": "wildlife",
       "keywords": [
       ]
-    }
+    },
+    {
+      "name": "animal behavior",
+      "keywords": [
+        ]
+    },
+    {
+      "name": "ecology",
+      "keywords": [
+        ]
+    },
   ],
   "skills": [
     {
@@ -53,6 +62,7 @@
         "R",
         "Matlab",
         "MS Excel",
+        "GraphPad Prism",
       ]
     }
   ],
@@ -62,23 +72,27 @@
       "area": "Biology",
       "studyType": "M.S.",
       "startDate": "2015-09-01",
-      "endDate": "2017-06-01",
+      "endDate": "2017-08-14",
       "gpa": "4.0",
       "courses": [
       ]
     }
   ],
-  "work": [
+  "research experience": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "The Grace Lab at Bradley University",
+      "position": "Masters Thesis Project",
       "website": "",
       "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "endDate": "2017-07-25",
+      "summary": "Studied the effects of dietary supplementation serotonin precursor on stalk-eyed fly aggression and antipredation behavior",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Studied and quantified insect aggression and behavioral patterns",
+        "Prepared samples for analysis using RNA extraction and micro-dissection",
+        "Learned micro-dissection techniques, fly care, and RNA extraction with the Swallow Lab at the University of Colorado – Denver in Summer 2016",
+        "Analyzed insect brain serotonin levels using ELISAs",
+        "Maintained populations of stalk-eyed flies (primarily <i>Teleopsis dalmanni</i>), jumping spiders (<i>Phiddipus audax</i> and <i>Phiddipus johnsoni</i>), and fruit flies (<i>Drosophila hydei</i>)",
+        "Trained new lab members in laboratory skills and micro-dissection techniques"
       ]
     },
     {
@@ -94,9 +108,9 @@
       ]
     }
   ],
-  "volunteer": [
+  "work": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
+      "company": "Center for Renewable Energy and Island Sustainability",
       "website": "http://manoa.hawaii.edu/reis",
       "position": "Software Developer",
       "startDate": "2016-01-01",
