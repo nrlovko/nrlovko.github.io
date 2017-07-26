@@ -6,13 +6,13 @@
     "email": "nrlovko[@]gmail.com",
     "phone": "808-333-4444",
     "website": "https://nrlovko.github.io",
-    "summary": "I am recently received my M.S. in Biology from Bradley University.",
+    "summary": "I recently received my M.S. in Biology from Bradley University.",
     "location": {
       "address": "",
-      "postalCode": "46234",
-      "city": "Indianapolis",
+      "postalCode": "12345",
+      "city": "Somewhere",
       "countryCode": "USA",
-      "region": "Indiana"
+      "region": "State"
     },
     "profiles": [
       {
