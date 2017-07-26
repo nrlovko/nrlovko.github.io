@@ -75,6 +75,30 @@
   "research experience": [
     {
       "company": "The Grace Lab at Bradley University",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Studied and quantified",
+        "researched"
+        ]
+    },
+    {
+      "company": "The Phillips Lab at Indiana Univeristy",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Studied and quantified",
+        "researched"
+        
+  "research": [
+    {
+      "company": "The Grace Lab at Bradley University",
       "position": "Masters Thesis Project",
       "website": "",
       "startDate": "2015-08-01",
