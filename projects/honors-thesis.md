@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/vm1.png
 title: Honors Thesis
-permalink: projects/micromouse2
+permalink: projects/honors-thesis
 date: 2017
 labels:
   - Soil Ecology
