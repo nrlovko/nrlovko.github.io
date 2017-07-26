@@ -70,6 +70,16 @@
       "gpa": "4.0",
       "courses": [
       ]
+    },
+    {
+      "institution": "Indiana University - Bloomington",
+      "area": "Environmental Science",
+      "studyType": "B.S.",
+      "startDate": "2011-08-01",
+      "endDate": "2015-05-11",
+      "gpa": "3.75",
+      "courses": [
+        ]
     }
   ],
   "work": [
