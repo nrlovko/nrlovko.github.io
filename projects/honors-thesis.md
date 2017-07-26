@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/vm1.png
-title: Honors Thesis
-permalink: projects/honors-thesis
+title: Undergraduate Thesis
+permalink: projects/undergraduate-thesis
 date: 2017
 labels:
   - Soil Ecology
