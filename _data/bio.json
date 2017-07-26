@@ -72,33 +72,7 @@
       ]
     }
   ],
-  "research experience": [
-    {
-      "company": "The Grace Lab at Bradley University",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Studied and quantified",
-        "researched"
-        ]
-    },
-    {
-      "company": "The Phillips Lab at Indiana Univeristy",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Studied and quantified",
-        "researched"
-      ]
-    }
-  ],
-  "research": [
+  "work": [
     {
       "company": "The Grace Lab at Bradley University",
       "position": "Masters Thesis Project",
@@ -128,7 +102,7 @@
       ]
     }
   ],
-  "work": [
+  "volunteer": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
       "website": "http://manoa.hawaii.edu/reis",
