@@ -90,19 +90,67 @@
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Bradley University Center for STEM Education",
+      "position": "Graduate Assistant",
+      "website": "https://www.bradley.edu/academic/cio/stem/",
+      "startDate": "2016-08-01",
+      "endDate": "2017-05-15",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Worked with faculty and the public to encourage growth in STEM education",
+        "Organized and planned programs for STEM outreach",
+        "Organized and inventoried STEM center resources to be available to be checked out by educators",
+        "Recruited faculty and high school students for Summer STEM programs"
       ]
+    },
+    {
+      "company": "The Phillips Lab at Indiana University",
+      "position": "Undergraduate Thesis Project ",
+      "website": "",
+      "startDate": "2014-06-01",
+      "endDate": "2015-07-15",
+      "summary": "Studied the effects of invasive Japanese stiltgrass on soil carbon pools and carbon cycling",
+      "highlights": [
+        "Helped set up field sites and collected data/samples",
+        "Prepared samples for carbon and nitrogen analysis through vacuum filtration",
+        "Analyzed samples using fractionation techniques, loss on ignition, and elemental analysis",
+        "Gained experience with Proton Transfer Reaction – Mass Spectrometer" 
+      ]
+    },
+    {
+      "company": "Indiana University Auditorium",
+      "position": "Foyer Director",
+      "website": "http://www.iuauditorium.com",
+      "startDate": "2013-01-01",
+      "endDate": "2015-07-15",
+      "summary": "",
+      "highlights": [
+        "Managed student managers and delegated responsibilities",
+        "Assisted in training new employees",
+        "Prepared the concession stand and took inventory of supplies",
+        "Planned and prepared concession items for each event based on ticket sales",
+        "Balanced the cashboxes and inventory at the end of events",
+        "Greeted and seated patrons",
+        "Helped implement internal recycling program",
+        "Assisted accessibility-hindered patrons"
+      ]
+    },
+    {
+      "company": "Indiana University Office of Sustainability",
+      "position": "Student intern",
+      "website": "http://www.indiana.edu/~sustain/",
+      "startDate": "2013-01-01",
+      "endDate": "2015-07-15",
+      "summary": "In charge of data metrics and reporting",
+      "highlights": [
+        "Responsible for entering data for the STARS 2.0 report",
+        "Collected data from many departments across campus",
+        "Analyzed data received and reported",
+        "Organized and conducted meetings with IU faculty and staff"
+        ]
     }
   ],
-  "volunteer": [
+  "research": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
       "website": "http://manoa.hawaii.edu/reis",
