@@ -3,14 +3,14 @@ layout: project
 type: project
 image: images/vm1.png
 title: Honors Thesis
-permalink: projects/honors-thesis
+permalink: projects/micromouse
 date: 2017
 labels:
   - Soil Ecology
   - Species Interactions
   - Invasive species
   - Research
-summary: 
+summary: Invasive grass impacts on soil C
 ---
 
 <div class="ui small rounded images">
